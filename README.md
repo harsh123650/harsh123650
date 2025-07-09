@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I know languages: **C, C++, Python, Java, HTML, CSS, JavaScript
+💻 I know languages: **C, C++, Python, Java, HTML, CSS, JavaScript<br>
 🔭 I’m currently building a feature-rich Django-based Web App with dashboards, subscriptions, and integrated payments.<br>
 🌱 I’m learning  JavaScript, and payment gateway integration (Razorpay, Stripe) to enhance user interaction.<br>
 🤝 I’m looking to collaborate on Python/Django projects, especially those involving APIs, data visualization, or useful utilities.<br>
