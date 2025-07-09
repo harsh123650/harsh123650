@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on a Django-based  Web App.<br>🌱 I’m currently learning AJAX, JavaScript, and payment gateway integration (Razorpay, Stripe).<br>🤝 I’m looking to collaborate on Python or Django web apps, especially projects involving APIs or mini-games.<br>💬 Ask me about Django, Python basics, or building games with the turtle module.<br>⚡ Fun fact: I enjoy turning simple ideas into fully working apps and games!<br><br>
+🔭 I’m currently building a feature-rich Django-based Web App with dashboards, subscriptions, and integrated payments.<br>
+🌱 I’m learning  JavaScript, and payment gateway integration (Razorpay, Stripe) to enhance user interaction.<br>
+🤝 I’m looking to collaborate on Python/Django projects, especially those involving APIs, data visualization, or useful utilities.<br>
+💬 Ask me about Django, Python fundamentals, AJAX integration, or mini-projects with the turtle module.<br>
+⚡ Fun fact: I love turning simple ideas into polished, real-world web apps — fast and functional!<br><br>
+
 
 
 ## 🌐 Socials:
