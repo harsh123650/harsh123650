@@ -4,10 +4,9 @@
   `C` | `C++`| `Python` | `Java`| `HTML`  | `CSS` | `JavaScript` | `Framework' Spring , Spring Boot
 
 
-🔭 I’m currently building a feature-rich Django-based Web App with dashboards, subscriptions, and integrated payments.                  <br>
+
 🌱 I’m learning  Backend Frameworks to enhance user interaction.                                                                        <br>
-🤝 I’m looking to collaborate on Python/Django projects, especially those involving APIs, data visualization, or useful utilities.      <br>
-💬 Ask me about Django, Python fundamentals, AJAX integration, or mini-projects with the turtle module.                                 <br>
+🤝 I’m looking to collaborate on SoringBoot projects, especially those involving APIs, or useful utilities.      <br>
 ⚡ Fun fact: I love turning simple ideas into polished, real-world web apps — fast and functional!                                       <br><br>
 
 
