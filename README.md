@@ -1,8 +1,8 @@
 ## 💫 About Me
 
-💻 I know:  
-`C` ⭐⭐⭐☆☆ | `C++` ⭐⭐⭐☆☆ | `Python` ⭐⭐⭐⭐☆ | `Java` ⭐⭐☆☆☆  
-`HTML` ⭐⭐⭐⭐⭐ | `CSS` ⭐⭐⭐⭐⭐ | `JavaScript` ⭐⭐⭐☆☆ | `Frameworks` ⭐⭐⭐☆☆
+💻 I know: 
+`C` | `C++`| `Python` | `Java`   
+`HTML`  | `CSS` | `JavaScript` | `Framework'
 
 
 🔭 I’m currently building a feature-rich Django-based Web App with dashboards, subscriptions, and integrated payments.                  <br>
