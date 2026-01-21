@@ -1,8 +1,8 @@
 ## 💫 About Me
 
 💻 I know: 
-  `C` | `C++`| `Python` | `Java`| `HTML`  | `CSS` | `JavaScript` | `Framework'
-
+  `C` | `C++`| `Python` | `Java`| `HTML`  | `CSS` | `JavaScript` | `Framework' | 
+ | 
 
 
 🌱 I’m learning  Backend Frameworks to enhance user interaction.                                                                        <br>
