@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 💻 I know: 
-  `C` | `C++`| `Python` | `Java`| `HTML`  | `CSS` | `JavaScript` | `Framework' Spring , Spring Boot
+  `C` | `C++`| `Python` | `Java`| `HTML`  | `CSS` | `JavaScript` | `Framework'
 
 
 
