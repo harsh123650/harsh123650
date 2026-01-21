@@ -1,7 +1,8 @@
 ## 💫 About Me
 
 💻 I know: 
-  `C` | `C++`| `Python` | `Java`| `HTML`  | `CSS` | `JavaScript` |  `SpringBoot` |
+  `C` | `C++`| `Python` | `Java`| `HTML`  | `CSS` | `JavaScript` | `SpringBoot` |
+  
 
 🌱 I’m learning  Backend Frameworks to enhance user interaction.                                                                        <br>
 🤝 I’m looking to collaborate on SoringBoot projects, especially those involving APIs, or useful utilities.      <br>
